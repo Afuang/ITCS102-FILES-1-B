@@ -1,4 +1,4 @@
-# ITCS102-FILES 1-B
+# ITCS102-Fundamentals-of-Computer-Programming
 These are my Coding Files for the subject of Fundamental Computer Programming
 
 Adrian Neil D. Afuang
