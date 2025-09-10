@@ -74,7 +74,8 @@ elif Genre_choice == "3":
         elif y3 == "2010":
             print("Higurashi When They Cry!")
 
-
+else:
+    print("Please answer the question properly")
 
 
     
