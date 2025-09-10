@@ -1,4 +1,4 @@
-print("Welcome to Mange Reccommender!")
+print("Welcome to Manga Recommender!")
 print("Answer a few questions to find a new manga to read.")
 print("Which Genre do you like to read?")
 print("1.Shonen")
