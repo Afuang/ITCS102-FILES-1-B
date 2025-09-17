@@ -1,4 +1,4 @@
-print("🦜PARROT SIMULATOR")
+print("🦜PARROT SIMULATOR -THE ECHO CHAMBER")
 speak = input("What do you want your parrot to say? ")
 rep = eval(input("How many times should the parrot squawk it? "))
 
