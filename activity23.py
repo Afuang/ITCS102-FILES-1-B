@@ -1,0 +1,15 @@
+wanted_list = ['Subeldia','Cuerdo','De Mesa',]
+print(wanted_list)
+print(wanted_list [1])
+wanted_list.append("Afuang")
+print(wanted_list)
+print(wanted_list [1 : 3])
+wanted_list.insert(2, "Balmaceda")
+print(wanted_list)
+wanted_list.pop()
+print(wanted_list)
+wanted_list.remove('Afuang')
+print(wanted_list)
+print(wanted_list [-1])
+wanted_list.sort
+print(wanted_list)
