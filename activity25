@@ -1,0 +1,7 @@
+anime_list = ['re zero', 'naruto', 'dragon ball', 'oreimo', 'boku no hero','ragna crimson']
+
+print(anime_list[3])
+anime_dictionary = {'loop':'re zero', 'shinobi':'naruto', 'ultra instinct':'dragon ball', 'siscon':'oreimo',\
+'one for all':'boku no hero', 'revenge':'ragna crimson'}
+print(anime_dictionary['shinobi'])
+print(anime_dictionary['siscon'])
